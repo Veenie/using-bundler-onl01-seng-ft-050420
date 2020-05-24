@@ -6,5 +6,5 @@ gem 'octokit', '2.0'
 group :development do
 gem "pry"
 group :test do
-gem "rspec"  
+gem "rspec"
 end
